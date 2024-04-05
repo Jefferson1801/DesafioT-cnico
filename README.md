@@ -7,7 +7,7 @@ Requerimientos:
 Pasos para descargar e instalar
 
 Clonar repositorio:
-git clone 
+git clone https://github.com/Jefferson1801/DesafioT-cnico.git
 
 Descargar dependencias
 mvn install
